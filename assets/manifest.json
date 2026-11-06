@@ -1,0 +1,12 @@
+{
+  "project": "VERTEX District",
+  "fictionalDevelopment": true,
+  "assets": [
+    {"path":"assets/images/hero.png","type":"original generated concept visualisation","source":"Created specifically for VERTEX District during this project session and supplied by the parent project agent.","depictsExistingProperty":false},
+    {"path":"assets/mark.svg","type":"native SVG mark","source":"Authored for VERTEX District in this repository."},
+    {"path":"assets/films/vertex-district.webm","type":"original procedural 3D film","source":"Rendered from js/scene.js using scripts/render-film.mjs. VP8 WebM, seekable remux, silent.","depictsExistingProperty":false},
+    {"path":"assets/films/vertex-film-poster.png","type":"3D film poster","source":"Captured from the same procedural scene during the film render.","depictsExistingProperty":false},
+    {"path":"assets/fonts/","type":"local Manrope font files","source":"Reused from the authorized local NOVA shared core.","license":"assets/fonts/Manrope-OFL.txt"},
+    {"path":"vendor/","type":"local Three.js and OrbitControls","source":"Reused from the authorized local NOVA shared core.","license":"vendor/THREE-LICENSE.txt"}
+  ]
+}
