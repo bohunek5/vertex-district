@@ -1,6 +1,6 @@
 {
   "format": "nova-public-build-v1",
-  "builtAt": "2026-11-07T01:05:26.767Z",
+  "builtAt": "2026-11-07T01:11:54.955Z",
   "base": "/vertex-district/",
   "name": "VERTEX District",
   "projectId": "vertex-district",
@@ -146,7 +146,7 @@
   "privateFileCount": 19,
   "sourceFileCount": 74,
   "publicAssetCount": 19,
-  "appSha256": "41847fe7063549ddb2b86ff05aa2fb94938aded008ad302f2bf40695e99a9f23",
-  "sourceSha256": "31a83ef4668c21bf6f6972ef94ff7b0bf377825fd982ca72fca4c5b4ebeb6a5f",
+  "appSha256": "880dfa622dd5fa632e8e67739c6d8724e0e95b6567857d68d5deee136680db63",
+  "sourceSha256": "b901aff8a0d61bffa74f3b52dccd150fca1733899036e1759006d23ac8e1e8b8",
   "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
 }
